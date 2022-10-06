@@ -28,7 +28,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adittya-Gupta&layout=compact" height="190" width="350"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adittya-Gupta&layout=compact" height="190" width="320"/>
 </a>
 
 <br>
@@ -40,7 +40,7 @@
 <br>
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31sby5ucregfphdbj27ujb42tnjm&cover_image=true&theme=default&show_offline=false&bar_color=48e543&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) <img src="https://user-images.githubusercontent.com/95131750/194231030-75540146-403e-41db-86b2-9ae8e3cdc33c.png" height="400" align="right"/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31sby5ucregfphdbj27ujb42tnjm&cover_image=true&theme=default&show_offline=false&bar_color=48e543&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) <img src="https://user-images.githubusercontent.com/95131750/194231030-75540146-403e-41db-86b2-9ae8e3cdc33c.png" height="350" align="right"/>
 
 
 
