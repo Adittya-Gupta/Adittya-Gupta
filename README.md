@@ -35,7 +35,9 @@
 <br>
 <br>
 
-<img src="https://cp-logo.vercel.app/codeforces/Nova_Adi"/> <img src="https://cp-logo.vercel.app/atcoder/Nova_Adi"/> ![](https://komarev.com/ghpvc/?username=Adittya-Gupta)
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/jo_on.svg)](https://codeforces.com/profile/Nova_Adi)
+
+<img src="https://cp-logo.vercel.app/atcoder/Nova_Adi"/> ![](https://komarev.com/ghpvc/?username=Adittya-Gupta)
 
 <br>
 <br>
