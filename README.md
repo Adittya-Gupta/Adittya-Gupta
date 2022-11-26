@@ -35,7 +35,7 @@
 <br>
 <br>
 
-[![Codeforces](https://badges.joonhyung.xyz/codeforces/Nova_Adi.svg)](https://codeforces.com/profile/Nova_Adi) <img src="https://cp-logo.vercel.app/atcoder/Nova_Adi"/> [![Badge](https://cp-logo.vercel.app/codechef/nova_adi)] ![](https://komarev.com/ghpvc/?username=Adittya-Gupta)
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/Nova_Adi.svg)](https://codeforces.com/profile/Nova_Adi) <img src="https://cp-logo.vercel.app/atcoder/Nova_Adi"/> ![](https://komarev.com/ghpvc/?username=Adittya-Gupta)
 
 <br>
 <br>
