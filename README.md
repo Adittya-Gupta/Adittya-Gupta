@@ -1,51 +1,30 @@
-<a href="URL_REDIRECT" target="blank"><img align="left" src="https://media.giphy.com/media/lP4cWYi3fIKL1MMmoO/giphy.gif" height="400" /></a>
-<!-- <div align="center" style="font-size:40px"> -->
-<h2 align="center"> Hello everyone 👋 I am Adittya Gupta AKA Nova_Adi </h2>
-<p align="center"> I am currently a Sophomore at IIT Guwahati in the branch Computer Science and Engineering 🏫 :india: </p>
-<p align="center"> I am currently learning about Web development technologies 💻</p>
-<p align="center"> I would also love to do projects that rely on Machine Learning and AI 🤖</p>
-<p align="center"> Currently stuck in learning many things at once 💀 </p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-### Find me on these platforms :
-<a href ="https://www.linkedin.com/in/adittya-gupta-b64356224/"><img align="left" alt="LinkedIn" width="30px" src="https://user-images.githubusercontent.com/95131750/194147562-e602b2a3-5a01-4e21-8af1-f14f212c5633.png"/></a>
-<a href="https://twitter.com/AdittyaGupta3"><img align="left" alt="Twitter" width="30px" src="https://user-images.githubusercontent.com/95131750/194147272-9c12938a-a6df-4e30-92e9-3093ae2ef192.png"/></a>
-<a href="https://www.instagram.com/adittya._gupta/"><img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/95131750/194147749-28a00de3-60dc-441b-af8a-1c9c319e948a.png"/></a>
-<a href="https://www.discordapp.com/users/2749"><img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/95131750/194148040-d636d72d-23bb-4530-9206-6c8d47e37817.png"/></a>
-
-<br>
-<br>
-
-### Some statistics
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adittya-Gupta&count_private=true&theme=radical" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adittya-Gupta&layout=compact" height="190" width="320"/>
-</a>
-
-<br>
-<br>
-<br>
-
-[![Codeforces](https://badges.joonhyung.xyz/codeforces/Nova_Adi.svg)](https://codeforces.com/profile/Nova_Adi) <img src="https://cp-logo.vercel.app/atcoder/Nova_Adi"/> ![](https://komarev.com/ghpvc/?username=Adittya-Gupta)
-
-<br>
-<br>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31sby5ucregfphdbj27ujb42tnjm&cover_image=true&theme=default&show_offline=false&bar_color=48e543&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) <img src="https://user-images.githubusercontent.com/95131750/194231030-75540146-403e-41db-86b2-9ae8e3cdc33c.png" height="370" align="right"/>
+# 💫 About Me:
+I am currently a Sophomore at IIT Guwahati in the branch Computer Science and Engineering 🏫 🇮🇳<br><br>I am currently learning about Web development technologies 💻<br><br>I would also love to do projects that rely on Machine Learning and AI 🤖<br><br>Currently stuck in learning many things at once 💀
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2749) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Adittya Gupta) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adittya._gupta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Adittya Gupta) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Adittya Gupta) 
 
-<!--   </div> -->
-<!---
-Adittya-Gupta/Adittya-Gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Adittya-Gupta&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Adittya-Gupta&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adittya-Gupta&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Adittya-Gupta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=Adittya Gupta)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Adittya-Gupta&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
