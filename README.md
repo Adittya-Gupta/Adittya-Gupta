@@ -11,7 +11,8 @@
 <br>
 <br>
 <br>
-### Find me on these platforms :
+<h3>Find me on these platforms :</h3>
+
 <a href ="https://www.linkedin.com/in/adittya-gupta-b64356224/"><img align="left" alt="LinkedIn" width="30px" src="https://user-images.githubusercontent.com/95131750/194147562-e602b2a3-5a01-4e21-8af1-f14f212c5633.png"/></a>
 <a href="https://twitter.com/AdittyaGupta3"><img align="left" alt="Twitter" width="30px" src="https://user-images.githubusercontent.com/95131750/194147272-9c12938a-a6df-4e30-92e9-3093ae2ef192.png"/></a>
 <a href="https://www.instagram.com/adittya._gupta/"><img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/95131750/194147749-28a00de3-60dc-441b-af8a-1c9c319e948a.png"/></a>
