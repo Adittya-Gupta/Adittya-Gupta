@@ -1,9 +1,7 @@
 <a href="URL_REDIRECT" target="blank"><img align="left" src="https://media.giphy.com/media/lP4cWYi3fIKL1MMmoO/giphy.gif" height="400" /></a>
 <!-- <div align="center" style="font-size:40px"> -->
 <h2 align="center"> Hello everyone 👋 I am Adittya Gupta AKA Nova_Adi </h2>
-<p align="center"> I am currently a Pre final yearite at IIT Guwahati in the branch Computer Science and Engineering 🏫 :india: </p>
-<p align="center"> I am currently learning about Web development technologies 💻</p>
-<p align="center"> I would also love to do projects that rely on Machine Learning and AI 🤖</p>
+<p align="center"> I did my bachelors from IIT Guwahati in the branch Computer Science and Engineering 🏫 :india: </p>
 <p align="center"> Currently stuck in learning many things at once 💀 </p>
 <br>
 <br>
